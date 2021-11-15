@@ -46,4 +46,4 @@ Vamos descobrir o que uma mente curiosa munida das stacks certas pode fazer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolbitencourtt/)](https://www.linkedin.com/in/carolbitencourtt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolmedeirosbitencourt@gmail.com)](mailto:carolmedeirosbitencourt@gmail.com)
 
-![Snake animation](https://github.com/Carol-Bitencourt/Carol-Bitencourt/blob/output/github-contribuition-grid-snake.sgv)
+![Snake animation](https://github.com/Carol-Bitencourt/Carol-Bitencourt/blob/output/github-contribution-grid-snake.sgv)
