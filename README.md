@@ -1,10 +1,10 @@
 <div align='center'> <h1> Oi, aqui é a Carol! Fique à vontade por aqui!</h1></div>
 
-#### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
+#### Estudando desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
  
  
 Imagine uma frase de efeito legal aqui <br />
-(é difícil pensar em algo que te descreva enquanto descobre coisas novas todos os dias.)
+(é difícil pensar em algo que te descreva enquanto descobre coisas novas todos os dias)
 <br />
 
 
