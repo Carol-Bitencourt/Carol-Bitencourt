@@ -4,7 +4,7 @@
  
  
 Imagine uma frase de efeito legal aqui <br />
-(é difícil pensar em algo que te descreva enquanto descobre coisas novas todos os dias)
+(é difícil pensar em algo que te descreva enquanto descobre coisas novas todos os dias.)
 <br />
 
 
