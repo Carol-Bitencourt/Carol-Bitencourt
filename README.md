@@ -8,7 +8,7 @@ Imagine uma frase de efeito legal aqui <br />
 <br />
 
 
-  Curiosamente, minha história com a tecnologi.a não começou desde a infância e por amor como na maioria dos casos.
+  Curiosamente, minha história com a tecnologia não começou desde a infância e por amor como na maioria dos casos.
 
 O tema que ganhou meu coração ainda na infância, foi a ciência e suas várias aplicações, iniciei uma graduação em ciências biológicas, mas não demorei pra perceber que a graduação não traria os impactos significativos que eu almejava, e foi aí que a tecnologia entrou na história, por estratégia!
 Vamos descobrir o que uma mente curiosa munida das stacks certas pode fazer 
