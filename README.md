@@ -1,17 +1,13 @@
 <div align='center'> <h1> Oi, aqui é a Carol! Fique à vontade por aqui!</h1></div>
 
-#### Estou estudando desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
- 
- 
-Imagine uma frase de efeito legal aqui <br />
-(é difícil pensar em algo que te descreva enquanto descobre coisas novas todos os dias)
-<br />
+#### Atualmente estou estudando desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
 
 
-  Curiosamente, minha história com a tecnologia não começou desde a infância e por amor como na maioria dos casos.
-
-O tema que ganhou meu coração ainda na infância, foi a ciência e suas várias aplicações, iniciei uma graduação em ciências biológicas, mas não demorei pra perceber que a graduação não traria os impactos significativos que eu almejava, e foi aí que a tecnologia entrou na história, por estratégia!
-Vamos descobrir o que uma mente curiosa munida das stacks certas pode fazer 
+Do zero ao full stack em um ano, é bastante desafiador, mas aprender a aprender, tem sido, sem dúvidas, minha melhor skill.
+Ao longo do curso, desenvolvemos habilidades técnicas, comportamentais e motodologias ágeis. Dentre elas, dei ênfase para:
+back-end, colaboração e Scrum.
+Os projetos que mais me orgulho estão pinados.
+QUalquer dúvida, sinta-se a vontade pra me chamar 😉
 <br />
 
 
