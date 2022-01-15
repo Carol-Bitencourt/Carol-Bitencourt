@@ -4,10 +4,11 @@
 
 
 Do zero ao full stack em um ano, é bastante desafiador, mas aprender a aprender, tem sido, sem dúvidas, minha melhor skill.
-Ao longo do curso, desenvolvemos habilidades técnicas, comportamentais e motodologias ágeis. Dentre elas, dei ênfase para:
-back-end, colaboração e Scrum.
+Ao longo do curso, desenvolvemos habilidades técnicas, comportamentais e motodologias ágeis.<br/>
+Dentre elas, dei ênfase para:
+back-end, colaboração e Scrum.<br/>
 Os projetos que mais me orgulho estão pinados.
-QUalquer dúvida, sinta-se a vontade pra me chamar 😉
+Qualquer dúvida, sinta-se a vontade pra me chamar 😉
 <br />
 
 
