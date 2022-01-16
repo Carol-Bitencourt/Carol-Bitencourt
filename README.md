@@ -7,7 +7,7 @@ Do zero ao full stack em um ano, é bastante desafiador, mas aprender a aprender
 Ao longo do curso, desenvolvemos habilidades técnicas, comportamentais e motodologias ágeis.<br/>
 Dentre elas, dei ênfase para:
 back-end, colaboração e Scrum.<br/>
-Os projetos que mais me orgulho estão pinados.
+Os projetos que mais me orgulho estarão pinados.
 Qualquer dúvida, sinta-se a vontade pra me chamar 😉
 <br />
 
