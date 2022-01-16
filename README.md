@@ -1,4 +1,4 @@
-<div align='center'> <h1> Oi, aqui é a Carol! Fique à vontade por aqui!</h1></div>
+<div> <h1> Oi, aqui é a Carol! Fique à vontade por aqui!</h1></div>
 
 #### Atualmente estou estudando desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
 
